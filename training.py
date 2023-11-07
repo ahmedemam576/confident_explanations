@@ -22,7 +22,17 @@ if __name__ == "__main__":
     
     
     class CustomDataset(Dataset):
+        
         def __init__(self, csv_file, image_folder, target_folder,transform_image=None,transform_target=None):
+            """_summary_
+
+            Args:
+                csv_file (_type_): _description_
+                image_folder (_type_): _description_
+                target_folder (_type_): _description_
+                transform_image (_type_, optional): _description_. Defaults to None.
+                transform_target (_type_, optional): _description_. Defaults to None.
+            """
             
             self.data = pd.read_csv(csv_file)
             
