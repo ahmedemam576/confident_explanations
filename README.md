@@ -1,4 +1,4 @@
-to cite this work://
+
 @ARTICLE{10433174,
   author={Emam, Ahmed and Farag, Mohamed and Roscher, Ribana},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
