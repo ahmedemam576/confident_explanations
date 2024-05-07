@@ -1,4 +1,4 @@
-
+# to cite this work
 @ARTICLE{10433174,
   author={Emam, Ahmed and Farag, Mohamed and Roscher, Ribana},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
@@ -11,8 +11,8 @@
   doi={10.1109/LGRS.2024.3365196}}
 
 
-
-# Confident Naturalness Explanation (CNE): A Framework to Explain and Assess Patterns Forming Naturalness in Fennoscandia with Confidence 
+# Abstract
+## Confident Naturalness Explanation (CNE): A Framework to Explain and Assess Patterns Forming Naturalness in Fennoscandia with Confidence 
 Protected natural areas represent regions nearly unaffected by human intervention. These regions, unspoiled by urbanization, agriculture, and other anthropogenic activities, host remarkable biodiversity and ecological processes. To fully comprehend these unaltered natural ecosystem processes, including water cycles and pollination dynamics, thorough research efforts become necessary. Machine learning models are utilized to analyze these protected natural areas from satellite imagery. To gain insights into the discriminative patterns underlying the notion of naturalness within these protected environments, the utilization of explainability techniques becomes essential. Moreover, addressing the inherent uncertainty embedded within machine learning models is imperative to achieve a comprehensive understanding of the concept of naturalness.
  Existing approaches aimed at explaining the concept of naturalness in these protected natural areas often encounter limitations. They either fall short in delivering explanations that are both complete and valid, or they struggle to offer a quantitative metric that accurately characterizes the confident significance of specific patterns that contribute to the concept of naturalness.
 This paper proposes a novel approach that integrates explainable machine learning with uncertainty quantification to explain naturalness. A novel quantitative metric is designed to describe the pattern's confident contribution to the concept of naturalness. Furthermore, an uncertainty-aware segmentation mask is generated for each input sample, highlighting the regions where the model illustrates a lack of knowledge. The confident Naturalness Explanation (CNE) framework is a novel way to understand naturalness by providing complete, valid, objective, quantifiable explanations of the concept of naturalness in Fennoscandia.
